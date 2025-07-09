@@ -1,0 +1,361 @@
+﻿date,course,hole,par,distance,handicap,score,fairway,green,putts,chips,penalties,to_par
+7/3/2025,The Carolina Club,1,4,,9,4,right,short,1,1,0,0
+7/3/2025,The Carolina Club,2,3,,17,4,,right,2,1,0,1
+7/3/2025,The Carolina Club,3,4,,7,5,hit,hit,3,1,0,1
+7/3/2025,The Carolina Club,4,5,,5,5,right,hit,1,1,0,0
+7/3/2025,The Carolina Club,5,3,,15,3,,hit,2,0,0,0
+7/3/2025,The Carolina Club,6,5,,1,6,left,hit,3,0,0,1
+7/3/2025,The Carolina Club,7,3,,13,2,,hit,1,0,0,-1
+7/3/2025,The Carolina Club,8,4,,11,6,right,nochance,2,1,1,2
+7/3/2025,The Carolina Club,9,5,,3,7,right,nochance,1,1,1,2
+6/14/2025,National Golf Club,1,5,,9,6,right,short,2,1,0,1
+6/14/2025,National Golf Club,2,4,,13,7,hit,long,3,2,0,3
+6/14/2025,National Golf Club,3,3,,15,4,,short,2,1,0,1
+6/14/2025,National Golf Club,4,4,,5,3,hit,hit,1,0,0,-1
+6/14/2025,National Golf Club,5,5,,1,8,hit,nochance,3,1,1,3
+6/14/2025,National Golf Club,6,3,,17,4,,left,1,2,0,1
+6/14/2025,National Golf Club,7,4,,7,5,hit,hit,3,0,0,1
+6/14/2025,National Golf Club,8,4,,11,6,right,nochance,2,1,0,2
+6/14/2025,National Golf Club,9,4,,3,4,hit,hit,2,0,0,0
+6/14/2025,National Golf Club,10,4,,10,4,hit,hit,2,0,0,0
+6/14/2025,National Golf Club,11,4,,14,6,left,nochance,3,0,0,2
+6/14/2025,National Golf Club,12,4,,8,4,right,right,1,1,0,0
+6/14/2025,National Golf Club,13,5,,6,5,hit,short,1,1,0,0
+6/14/2025,National Golf Club,14,4,,4,7,right,nochance,3,1,1,3
+6/14/2025,National Golf Club,15,3,,16,5,,short,2,1,0,2
+6/14/2025,National Golf Club,16,5,,2,7,right,nochance,2,1,0,2
+6/14/2025,National Golf Club,17,4,,12,5,hit,nochance,2,1,0,1
+6/14/2025,National Golf Club,18,3,,18,5,,short,3,1,0,2
+5/18/2025,East Potomac Golf Links - Blue Course,1,4,343,7,7,hit,short,3,2,0,3
+5/18/2025,East Potomac Golf Links - Blue Course,2,4,377,3,5,left,hit,3,0,0,1
+5/18/2025,East Potomac Golf Links - Blue Course,3,5,564,1,7,right,short,3,0,0,2
+5/18/2025,East Potomac Golf Links - Blue Course,4,3,154,13,5,,short,2,2,0,2
+5/18/2025,East Potomac Golf Links - Blue Course,5,4,286,17,5,hit,short,2,1,0,1
+5/18/2025,East Potomac Golf Links - Blue Course,6,5,507,5,7,right,nochance,3,0,0,2
+5/18/2025,East Potomac Golf Links - Blue Course,7,4,297,15,5,right,left,2,1,0,1
+5/18/2025,East Potomac Golf Links - Blue Course,8,3,196,9,3,,short,1,1,0,0
+5/18/2025,East Potomac Golf Links - Blue Course,9,4,336,11,6,left,short,3,0,0,2
+5/18/2025,East Potomac Golf Links - Blue Course,10,4,302,16,5,short,nochance,2,0,0,1
+5/18/2025,East Potomac Golf Links - Blue Course,11,3,167,14,5,,right,3,1,0,2
+5/18/2025,East Potomac Golf Links - Blue Course,12,5,456,10,6,hit,short,2,1,0,1
+5/18/2025,East Potomac Golf Links - Blue Course,13,4,354,8,5,hit,long,2,1,0,1
+5/18/2025,East Potomac Golf Links - Blue Course,14,4,389,4,7,short,nochance,3,2,0,3
+5/18/2025,East Potomac Golf Links - Blue Course,15,3,162,18,3,,hit,2,0,0,0
+5/18/2025,East Potomac Golf Links - Blue Course,16,4,419,2,6,hit,short,2,2,0,2
+5/18/2025,East Potomac Golf Links - Blue Course,17,5,546,6,6,right,nochance,2,1,0,1
+5/18/2025,East Potomac Golf Links - Blue Course,18,4,371,12,7,left,nochance,2,2,0,3
+5/11/2025,East Potomac Golf Links - Blue Course,1,4,343,7,4,left,hit,2,0,0,0
+5/11/2025,East Potomac Golf Links - Blue Course,2,4,377,3,4,hit,hit,2,0,0,0
+5/11/2025,East Potomac Golf Links - Blue Course,3,5,564,1,5,hit,hit,2,1,0,0
+5/11/2025,East Potomac Golf Links - Blue Course,4,3,154,13,4,,right,2,1,0,1
+5/11/2025,East Potomac Golf Links - Blue Course,5,4,286,17,6,left,short,2,2,0,2
+5/11/2025,East Potomac Golf Links - Blue Course,6,5,507,5,6,right,nochance,2,0,1,1
+5/11/2025,East Potomac Golf Links - Blue Course,7,4,297,15,4,right,hit,2,0,0,0
+5/11/2025,East Potomac Golf Links - Blue Course,8,3,196,9,4,,short,2,1,0,1
+5/11/2025,East Potomac Golf Links - Blue Course,9,4,336,11,3,right,hit,1,0,0,-1
+5/11/2025,East Potomac Golf Links - Blue Course,10,4,302,16,5,left,hit,3,0,0,1
+5/11/2025,East Potomac Golf Links - Blue Course,11,3,167,14,4,,right,2,1,0,1
+5/11/2025,East Potomac Golf Links - Blue Course,12,5,456,10,4,hit,hit,1,1,0,-1
+5/11/2025,East Potomac Golf Links - Blue Course,13,4,354,8,4,right,hit,2,0,0,0
+5/11/2025,East Potomac Golf Links - Blue Course,14,4,389,4,7,right,nochance,3,1,1,3
+5/11/2025,East Potomac Golf Links - Blue Course,15,3,162,18,4,,left,2,1,0,1
+5/11/2025,East Potomac Golf Links - Blue Course,16,4,419,2,5,short,nochance,1,1,0,1
+5/11/2025,East Potomac Golf Links - Blue Course,17,5,546,6,7,right,short,2,2,0,2
+5/11/2025,East Potomac Golf Links - Blue Course,18,4,371,12,6,left,nochance,2,0,0,2
+4/23/2025,East Potomac Golf Links - Blue Course,1,4,343,7,6,left,left,2,2,0,2
+4/23/2025,East Potomac Golf Links - Blue Course,2,4,377,3,4,left,hit,2,0,0,0
+4/23/2025,East Potomac Golf Links - Blue Course,3,5,564,1,6,right,left,2,1,0,1
+4/23/2025,East Potomac Golf Links - Blue Course,4,3,154,13,5,,right,2,2,0,2
+4/23/2025,East Potomac Golf Links - Blue Course,5,4,286,17,5,left,short,2,1,0,1
+4/23/2025,East Potomac Golf Links - Blue Course,6,5,507,5,6,short,nochance,2,0,0,1
+4/23/2025,East Potomac Golf Links - Blue Course,7,4,297,15,5,hit,hit,3,1,0,1
+4/23/2025,East Potomac Golf Links - Blue Course,8,3,196,9,4,,short,2,1,0,1
+4/23/2025,East Potomac Golf Links - Blue Course,9,4,336,11,4,right,long,1,1,0,0
+4/14/2025,East Potomac Golf Links - Blue Course,1,4,343,7,6,left,nochance,2,1,0,2
+4/14/2025,East Potomac Golf Links - Blue Course,2,4,377,3,6,left,nochance,2,1,0,2
+4/14/2025,East Potomac Golf Links - Blue Course,3,5,564,1,6,hit,left,2,1,0,1
+4/14/2025,East Potomac Golf Links - Blue Course,4,3,154,13,4,,left,2,1,0,1
+4/14/2025,East Potomac Golf Links - Blue Course,5,4,286,17,4,right,hit,2,0,0,0
+4/14/2025,East Potomac Golf Links - Blue Course,6,5,507,5,8,left,nochance,2,2,1,3
+4/14/2025,East Potomac Golf Links - Blue Course,7,4,297,15,5,hit,short,2,2,0,1
+4/14/2025,East Potomac Golf Links - Blue Course,8,3,196,9,5,,right,1,3,0,2
+4/14/2025,East Potomac Golf Links - Blue Course,9,4,336,11,6,short,nochance,2,1,0,2
+4/14/2025,East Potomac Golf Links - Blue Course,10,4,302,16,5,short,nochance,2,0,0,1
+4/14/2025,East Potomac Golf Links - Blue Course,11,3,167,14,3,,hit,2,0,0,0
+4/14/2025,East Potomac Golf Links - Blue Course,12,5,456,10,5,right,long,1,1,0,0
+4/14/2025,East Potomac Golf Links - Blue Course,13,4,354,8,4,hit,short,1,1,0,0
+4/14/2025,East Potomac Golf Links - Blue Course,14,4,389,4,7,right,nochance,2,1,1,3
+4/14/2025,East Potomac Golf Links - Blue Course,15,3,162,18,3,,short,1,1,0,0
+4/14/2025,East Potomac Golf Links - Blue Course,16,4,419,2,5,right,nochance,1,1,0,1
+4/14/2025,East Potomac Golf Links - Blue Course,17,5,546,6,8,short,nochance,2,1,0,3
+4/14/2025,East Potomac Golf Links - Blue Course,18,4,371,12,7,right,nochance,3,2,0,3
+4/6/2025,Langston (Legacy),1,5,465,10,6,hit,hit,3,1,0,1
+4/6/2025,Langston (Legacy),2,4,376,9,5,right,nochance,2,0,0,1
+4/6/2025,Langston (Legacy),3,5,492,1,6,hit,nochance,1,3,0,1
+4/6/2025,Langston (Legacy),4,3,157,16,5,,left,3,1,0,2
+4/6/2025,Langston (Legacy),5,4,350,17,6,right,short,2,2,0,2
+4/6/2025,Langston (Legacy),6,4,358,12,5,right,nochance,2,1,0,1
+4/6/2025,Langston (Legacy),7,4,328,18,5,right,right,2,1,0,1
+4/6/2025,Langston (Legacy),8,3,194,8,4,,short,1,1,0,1
+4/6/2025,Langston (Legacy),9,4,388,5,5,hit,hit,3,0,0,1
+3/28/2025,East Potomac Golf Links - Blue Course,1,4,343,7,5,left,short,2,1,0,1
+3/28/2025,East Potomac Golf Links - Blue Course,2,4,377,3,5,hit,short,2,1,0,1
+3/28/2025,East Potomac Golf Links - Blue Course,3,5,564,1,5,hit,hit,2,0,0,0
+3/28/2025,East Potomac Golf Links - Blue Course,4,3,154,13,4,,left,1,2,0,1
+3/28/2025,East Potomac Golf Links - Blue Course,5,4,286,17,6,right,nochance,2,2,1,2
+3/28/2025,East Potomac Golf Links - Blue Course,6,5,507,5,5,hit,hit,2,0,0,0
+3/28/2025,East Potomac Golf Links - Blue Course,7,4,297,15,4,right,hit,2,0,0,0
+3/28/2025,East Potomac Golf Links - Blue Course,8,3,196,9,4,,left,2,1,0,1
+3/28/2025,East Potomac Golf Links - Blue Course,9,4,336,11,6,right,left,2,2,0,2
+3/28/2025,East Potomac Golf Links - Blue Course,10,4,302,16,4,hit,hit,3,0,0,0
+3/28/2025,East Potomac Golf Links - Blue Course,11,3,167,14,3,,hit,2,0,0,0
+3/28/2025,East Potomac Golf Links - Blue Course,12,5,456,10,7,short,right,3,1,0,2
+3/28/2025,East Potomac Golf Links - Blue Course,13,4,354,8,4,hit,hit,2,1,0,0
+3/28/2025,East Potomac Golf Links - Blue Course,14,4,389,4,6,right,nochance,2,2,0,2
+3/28/2025,East Potomac Golf Links - Blue Course,15,3,162,18,4,,left,2,1,0,1
+3/28/2025,East Potomac Golf Links - Blue Course,16,4,419,2,6,right,nochance,2,2,0,2
+3/28/2025,East Potomac Golf Links - Blue Course,17,5,546,6,7,short,nochance,3,0,0,2
+3/28/2025,East Potomac Golf Links - Blue Course,18,4,371,12,4,hit,short,1,1,0,0
+3/15/2025,Langston (Legacy),1,5,465,10,5,hit,right,1,2,0,0
+3/15/2025,Langston (Legacy),2,4,376,9,7,hit,nochance,2,3,0,3
+3/15/2025,Langston (Legacy),3,5,492,1,6,right,nochance,2,0,0,1
+3/15/2025,Langston (Legacy),4,3,157,16,4,,long,2,1,0,1
+3/15/2025,Langston (Legacy),5,4,350,17,6,hit,long,2,3,0,2
+3/15/2025,Langston (Legacy),6,4,358,12,5,right,left,2,1,0,1
+3/15/2025,Langston (Legacy),7,4,328,18,5,hit,long,1,2,0,1
+3/15/2025,Langston (Legacy),8,3,194,8,4,,left,2,1,0,1
+3/15/2025,Langston (Legacy),9,4,388,5,5,hit,nochance,2,0,0,1
+3/12/2025,East Potomac Golf Links - White Course,1,3,156,17,4,,long,1,2,0,1
+3/12/2025,East Potomac Golf Links - White Course,2,4,381,1,5,left,nochance,1,1,0,1
+3/12/2025,East Potomac Golf Links - White Course,3,4,266,15,6,right,short,3,2,0,2
+3/12/2025,East Potomac Golf Links - White Course,4,4,285,7,5,left,short,2,1,0,1
+3/12/2025,East Potomac Golf Links - White Course,5,4,247,9,4,hit,hit,2,0,0,0
+3/12/2025,East Potomac Golf Links - White Course,6,3,190,11,5,,right,3,1,0,2
+3/12/2025,East Potomac Golf Links - White Course,7,4,355,3,5,right,nochance,0,3,0,1
+3/12/2025,East Potomac Golf Links - White Course,8,4,286,5,3,left,hit,1,0,0,-1
+3/12/2025,East Potomac Golf Links - White Course,9,4,327,13,6,right,short,2,2,0,2
+2/28/2025,Sea Scape Golf Links,1,4,,16,5,right,hit,0,3,0,1
+2/28/2025,Sea Scape Golf Links,2,5,,8,8,hit,nochance,1,4,0,3
+2/28/2025,Sea Scape Golf Links,3,3,,14,4,,hit,3,0,0,1
+2/28/2025,Sea Scape Golf Links,4,3,,18,4,,long,1,2,0,1
+2/28/2025,Sea Scape Golf Links,5,4,,10,5,hit,right,2,1,0,1
+2/28/2025,Sea Scape Golf Links,6,5,,6,6,right,short,2,1,0,1
+2/28/2025,Sea Scape Golf Links,7,4,,2,5,right,nochance,1,1,0,1
+2/28/2025,Sea Scape Golf Links,8,3,,4,5,,long,2,2,0,2
+2/28/2025,Sea Scape Golf Links,9,4,,12,4,hit,hit,2,0,0,0
+10/13/2024,Rocky Point Golf Course,1,4,360,9,5,right,nochance,2,0,0,1
+10/13/2024,Rocky Point Golf Course,2,4,398,1,6,hit,nochance,3,1,0,2
+10/13/2024,Rocky Point Golf Course,3,4,397,7,6,right,short,2,2,0,2
+10/13/2024,Rocky Point Golf Course,4,3,172,17,4,,right,2,1,0,1
+10/13/2024,Rocky Point Golf Course,5,5,529,5,6,hit,hit,3,0,0,1
+10/13/2024,Rocky Point Golf Course,6,4,338,13,6,hit,short,3,2,0,2
+10/13/2024,Rocky Point Golf Course,7,3,146,15,5,,left,3,1,0,2
+10/13/2024,Rocky Point Golf Course,8,4,380,3,5,hit,hit,3,0,0,1
+10/13/2024,Rocky Point Golf Course,9,4,358,11,6,left,right,2,2,0,2
+10/13/2024,Rocky Point Golf Course,10,4,370,4,6,hit,short,3,2,0,2
+10/13/2024,Rocky Point Golf Course,11,3,133,18,3,,left,1,1,0,0
+10/13/2024,Rocky Point Golf Course,12,5,460,14,4,hit,hit,2,0,0,-1
+10/13/2024,Rocky Point Golf Course,13,4,350,4,6,right,left,3,1,0,2
+10/13/2024,Rocky Point Golf Course,14,3,177,10,4,,right,2,1,0,1
+10/13/2024,Rocky Point Golf Course,15,5,475,6,5,right,right,1,1,0,0
+10/13/2024,Rocky Point Golf Course,16,5,457,8,5,right,short,2,1,0,0
+10/13/2024,Rocky Point Golf Course,17,4,413,2,5,hit,short,2,1,0,1
+10/13/2024,Rocky Point Golf Course,18,4,399,12,7,right,nochance,3,1,0,3
+10/6/2024,Split Rock Golf Course at Pelham Bay,1,4,,7,6,short,nochance,2,0,0,2
+10/6/2024,Split Rock Golf Course at Pelham Bay,2,4,,15,6,hit,nochance,3,1,0,2
+10/6/2024,Split Rock Golf Course at Pelham Bay,3,4,,5,5,hit,hit,3,0,0,1
+10/6/2024,Split Rock Golf Course at Pelham Bay,4,3,,17,4,,right,2,1,0,1
+10/6/2024,Split Rock Golf Course at Pelham Bay,5,5,,13,6,left,nochance,1,1,0,1
+10/6/2024,Split Rock Golf Course at Pelham Bay,6,3,,11,4,,right,2,1,0,1
+10/6/2024,Split Rock Golf Course at Pelham Bay,7,4,,1,7,right,nochance,3,1,0,3
+10/6/2024,Split Rock Golf Course at Pelham Bay,8,4,,3,6,right,nochance,1,1,0,2
+10/6/2024,Split Rock Golf Course at Pelham Bay,9,4,,9,7,left,nochance,2,1,0,3
+10/6/2024,Split Rock Golf Course at Pelham Bay,10,4,,8,5,right,nochance,2,0,0,1
+10/6/2024,Split Rock Golf Course at Pelham Bay,11,4,,4,7,hit,short,2,2,0,3
+10/6/2024,Split Rock Golf Course at Pelham Bay,12,3,,16,3,,hit,2,0,0,0
+10/6/2024,Split Rock Golf Course at Pelham Bay,13,5,,12,5,hit,hit,2,0,0,0
+10/6/2024,Split Rock Golf Course at Pelham Bay,14,4,,10,5,short,nochance,1,1,0,1
+10/6/2024,Split Rock Golf Course at Pelham Bay,15,4,,18,7,right,nochance,2,2,0,3
+10/6/2024,Split Rock Golf Course at Pelham Bay,16,3,,14,3,,right,1,1,0,0
+10/6/2024,Split Rock Golf Course at Pelham Bay,17,4,,2,7,right,nochance,2,2,0,3
+10/6/2024,Split Rock Golf Course at Pelham Bay,18,4,,6,6,left,right,2,2,0,2
+9/28/2024,Reston National Golf Course,1,4,,14,5,hit,short,2,1,0,1
+9/28/2024,Reston National Golf Course,2,5,,18,7,right,short,2,2,0,2
+9/28/2024,Reston National Golf Course,3,3,,16,5,,hit,4,0,0,2
+9/28/2024,Reston National Golf Course,4,4,,8,6,left,right,2,1,0,2
+9/28/2024,Reston National Golf Course,5,5,,10,7,hit,right,2,2,0,2
+9/28/2024,Reston National Golf Course,6,3,,12,4,,short,2,1,0,1
+9/28/2024,Reston National Golf Course,7,4,,4,6,right,nochance,2,1,0,2
+9/28/2024,Reston National Golf Course,8,4,,2,4,right,nochance,1,0,0,0
+9/28/2024,Reston National Golf Course,9,4,,6,6,hit,short,2,2,0,2
+9/28/2024,Reston National Golf Course,10,4,,1,7,hit,short,2,3,0,3
+9/28/2024,Reston National Golf Course,11,3,,17,3,,right,1,1,0,0
+9/28/2024,Reston National Golf Course,12,4,,7,5,hit,short,2,1,0,1
+9/28/2024,Reston National Golf Course,13,4,,3,8,short,nochance,2,0,0,4
+9/28/2024,Reston National Golf Course,14,4,,11,5,hit,hit,2,1,0,1
+9/28/2024,Reston National Golf Course,15,5,,13,7,right,nochance,2,0,0,2
+9/28/2024,Reston National Golf Course,16,3,,5,4,,short,2,1,0,1
+9/28/2024,Reston National Golf Course,17,4,,9,5,right,nochance,2,0,0,1
+9/28/2024,Reston National Golf Course,18,4,,15,7,right,nochance,2,1,0,3
+9/26/2024,East Potomac Golf Links - Blue Course,1,4,302,16,6,right,left,2,2,0,2
+9/26/2024,East Potomac Golf Links - Blue Course,2,3,167,14,4,,hit,3,0,0,1
+9/26/2024,East Potomac Golf Links - Blue Course,3,5,456,10,6,hit,right,2,1,0,1
+9/26/2024,East Potomac Golf Links - Blue Course,4,4,354,8,4,hit,hit,2,0,0,0
+9/26/2024,East Potomac Golf Links - Blue Course,5,4,389,4,7,right,nochance,2,1,0,3
+9/26/2024,East Potomac Golf Links - Blue Course,6,3,162,18,4,,right,2,1,0,1
+9/26/2024,East Potomac Golf Links - Blue Course,7,4,419,2,4,hit,short,1,1,0,0
+9/26/2024,East Potomac Golf Links - Blue Course,8,5,546,6,6,hit,short,2,2,0,1
+9/26/2024,East Potomac Golf Links - Blue Course,9,4,371,12,5,right,short,2,1,0,1
+9/4/2024,William J. Devine Golf Course,1,4,,7,5,right,hit,3,0,0,1
+9/4/2024,William J. Devine Golf Course,2,4,,13,4,right,right,1,1,0,0
+9/4/2024,William J. Devine Golf Course,3,4,,3,6,hit,right,2,2,0,2
+9/4/2024,William J. Devine Golf Course,4,3,,15,4,,short,1,2,0,1
+9/4/2024,William J. Devine Golf Course,5,4,,9,5,left,right,2,1,0,1
+9/4/2024,William J. Devine Golf Course,6,4,,5,4,hit,hit,2,0,0,0
+9/4/2024,William J. Devine Golf Course,7,4,,1,5,right,nochance,2,0,0,1
+9/4/2024,William J. Devine Golf Course,8,3,,17,3,,left,1,1,0,0
+9/4/2024,William J. Devine Golf Course,9,4,,11,4,hit,hit,2,0,0,0
+8/30/2024,Robert T. Lynch Municipal Golf Course,1,4,372,12,6,right,right,2,2,0,2
+8/30/2024,Robert T. Lynch Municipal Golf Course,2,4,341,10,6,hit,short,2,2,0,2
+8/30/2024,Robert T. Lynch Municipal Golf Course,3,3,175,18,3,,short,1,1,0,0
+8/30/2024,Robert T. Lynch Municipal Golf Course,4,4,321,16,4,hit,hit,2,0,0,0
+8/30/2024,Robert T. Lynch Municipal Golf Course,5,3,208,14,4,,short,2,1,0,1
+8/30/2024,Robert T. Lynch Municipal Golf Course,6,5,521,8,8,short,nochance,1,2,0,3
+8/30/2024,Robert T. Lynch Municipal Golf Course,7,4,347,4,7,right,right,2,2,0,3
+8/30/2024,Robert T. Lynch Municipal Golf Course,8,4,401,2,6,right,right,2,2,0,2
+8/30/2024,Robert T. Lynch Municipal Golf Course,9,4,395,6,5,hit,short,3,0,0,1
+8/25/2024,Framingham Country Club,1,5,454,17,8,right,left,3,2,0,3
+8/25/2024,Framingham Country Club,2,4,335,13,7,short,nochance,2,1,0,3
+8/25/2024,Framingham Country Club,3,4,325,5,6,hit,short,2,1,0,2
+8/25/2024,Framingham Country Club,4,4,364,1,6,right,short,2,1,0,2
+8/25/2024,Framingham Country Club,5,5,500,7,6,hit,left,1,1,0,1
+8/25/2024,Framingham Country Club,6,3,200,15,5,,short,2,1,0,2
+8/25/2024,Framingham Country Club,7,4,341,9,5,right,short,1,1,0,1
+8/25/2024,Framingham Country Club,8,3,162,11,3,,hit,2,0,0,0
+8/25/2024,Framingham Country Club,9,4,425,3,6,left,short,2,1,0,2
+8/25/2024,Framingham Country Club,10,4,352,6,7,right,right,2,2,0,3
+8/25/2024,Framingham Country Club,11,3,178,10,4,,short,2,1,0,1
+8/25/2024,Framingham Country Club,12,5,388,18,7,right,short,2,2,0,2
+8/25/2024,Framingham Country Club,13,4,341,12,7,hit,short,2,3,0,3
+8/25/2024,Framingham Country Club,14,4,373,2,6,right,short,2,1,0,2
+8/25/2024,Framingham Country Club,15,4,377,8,5,right,short,2,0,0,1
+8/25/2024,Framingham Country Club,16,4,392,4,6,hit,right,2,2,0,2
+8/25/2024,Framingham Country Club,17,3,138,16,3,,hit,2,0,0,0
+8/25/2024,Framingham Country Club,18,5,501,14,6,right,short,2,1,0,1
+8/21/2024,Kebo Valley Club,1,4,,7,5,right,short,2,0,0,1
+8/21/2024,Kebo Valley Club,2,4,,3,5,hit,left,2,1,0,1
+8/21/2024,Kebo Valley Club,3,4,,11,7,right,short,2,3,0,3
+8/21/2024,Kebo Valley Club,4,3,,17,3,right,hit,2,0,0,0
+8/21/2024,Kebo Valley Club,5,5,,9,5,,hit,2,0,0,0
+8/21/2024,Kebo Valley Club,6,3,,13,6,hit,short,2,2,0,3
+8/21/2024,Kebo Valley Club,7,4,,15,4,,hit,2,0,0,0
+8/21/2024,Kebo Valley Club,8,4,,1,7,right,nochance,3,1,0,3
+8/21/2024,Kebo Valley Club,9,3,,5,3,right,hit,2,0,0,0
+8/21/2024,Kebo Valley Club,10,4,,10,6,right,nochance,2,2,0,2
+8/21/2024,Kebo Valley Club,11,4,,8,5,hit,hit,3,0,0,1
+8/21/2024,Kebo Valley Club,12,4,,14,5,hit,hit,3,0,0,1
+8/21/2024,Kebo Valley Club,13,4,,2,5,right,nochance,1,1,0,1
+8/21/2024,Kebo Valley Club,14,5,,4,6,right,left,1,2,0,1
+8/21/2024,Kebo Valley Club,15,3,,16,5,,short,3,1,0,2
+8/21/2024,Kebo Valley Club,16,4,,18,7,right,left,2,3,0,3
+8/21/2024,Kebo Valley Club,17,4,,6,6,hit,right,2,1,0,2
+8/21/2024,Kebo Valley Club,18,4,,12,5,hit,short,2,1,0,1
+8/11/2024,Enterprise Golf Course,1,4,,16,6,right,right,2,1,0,2
+8/11/2024,Enterprise Golf Course,2,5,,6,7,right,short,2,1,0,2
+8/11/2024,Enterprise Golf Course,3,4,,14,4,hit,short,1,1,0,0
+8/11/2024,Enterprise Golf Course,4,3,,18,4,,short,2,1,0,1
+8/11/2024,Enterprise Golf Course,5,4,,4,7,left,nochance,2,2,0,3
+8/11/2024,Enterprise Golf Course,6,4,,12,5,hit,long,2,1,0,1
+8/11/2024,Enterprise Golf Course,7,4,,10,7,left,short,2,3,0,3
+8/11/2024,Enterprise Golf Course,8,3,,8,4,,short,2,1,0,1
+8/11/2024,Enterprise Golf Course,9,5,,2,5,hit,hit,2,0,0,0
+8/11/2024,Enterprise Golf Course,10,5,,3,7,right,nochance,2,1,0,2
+8/11/2024,Enterprise Golf Course,11,4,,5,5,hit,short,2,1,0,1
+8/11/2024,Enterprise Golf Course,12,4,,9,5,hit,short,2,1,0,1
+8/11/2024,Enterprise Golf Course,13,3,,15,4,,right,2,1,0,1
+8/11/2024,Enterprise Golf Course,14,5,,7,4,hit,hit,1,1,0,-1
+8/11/2024,Enterprise Golf Course,15,3,,17,2,,hit,1,0,0,-1
+8/11/2024,Enterprise Golf Course,16,4,,1,5,left,nochance,2,0,0,1
+8/11/2024,Enterprise Golf Course,17,4,,11,6,hit,left,2,2,0,2
+8/11/2024,Enterprise Golf Course,18,4,,13,6,hit,nochance,3,0,0,2
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
