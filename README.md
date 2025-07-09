@@ -1,4 +1,4 @@
-# my_golf_analytics
+# My Golf Analytics
 An analytical deep dive into my god-awful golf game
 
 ## Overview
