@@ -14,7 +14,7 @@ Using this data, and a little bit more that I'll get to, I set out to better und
 
 ## About This Repository
 
-My full writeup is available in HTML form. Additionally, the jupyter lab notebook I used will be available in order to view my code. 
+My full writeup is available in PDF form. Additionally, the jupyter lab notebook I used will be available in order to view my code. 
 
 ## Notes
 
