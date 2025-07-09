@@ -14,10 +14,10 @@ Using this data, and a little bit more that I'll get to, I set out to better und
 
 ## About This Repository
 
-My full writeup is available in PDF form. Additionally, the jupyter lab notebook I used will be available in order to view my code. 
+My full writeup is available in PDF form. Additionally, the jupyter notebook I used will be available in order to view my code. 
 
 ## Notes
 
-I use 18 birdies to track my stats, and they do not have any API. I manually inputted all my data for this project. If you would like to mimic this analysis and have a better tracking system, feel free to adjyst the code accordingly to automate the data ingest process.
+I use 18 birdies to track my stats, and they do not have any API. I manually inputted all my data for this project. If you would like to mimic this analysis and have a better tracking system, feel free to adjust the code accordingly to automate the data ingest process.
 
 I know there are lots of types of golf tracking equipment out there which I do not have. Club sensors, shot tracking, etc. would all add lots to this analysis!
